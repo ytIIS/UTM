@@ -1,7 +1,0 @@
-2;3.33
-
-###########################################################
-Pierwsze pole - numer portu COM w notacji N-1 z wszystkich portów w systemie
-np port COM1=0 COM2=1 COM3=2 COM5=3 COM12=4 itd
-Drugie pole - prêdkoœæ defualtowa 
-Pola odzielamy ;
