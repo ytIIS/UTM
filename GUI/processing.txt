@@ -1,0 +1,1 @@
+Tested under windows 7/10 - OK
